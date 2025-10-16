@@ -33,3 +33,6 @@ p {
 img {
     height: 200;
 }
+.categoria-videos{
+    display: flex;
+}
