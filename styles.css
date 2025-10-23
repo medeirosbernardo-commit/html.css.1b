@@ -33,7 +33,7 @@ p {
 }
 
 img {
-    height: 200;
+    height: 200px;
 }
 
 .categoria-videos {
@@ -42,7 +42,7 @@ img {
     gap: 10px;
 }
 
-.categoria{
-    padding-left:  20px;
-    padding-right: 20px
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
 }
